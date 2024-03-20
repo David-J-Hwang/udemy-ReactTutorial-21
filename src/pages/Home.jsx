@@ -1,3 +1,4 @@
+// Link: react style of "a href" + "to"
 import { Link } from "react-router-dom"
 
 export default function HomePage() {
@@ -9,3 +10,4 @@ export default function HomePage() {
     </>
   )
 }
+
